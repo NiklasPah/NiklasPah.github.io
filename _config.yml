@@ -1,5 +1,5 @@
 title:               Niklas Pahlke
-url:                 https://niklaspah.github.io
+url:                 https://niklas-pahlke.com
 baseurl:             ""
 
 markdown:            kramdown
@@ -20,7 +20,7 @@ sass:
 
 author:
   name:              Niklas Pahlke
-  url:               niklaspah.github.io
+  url:               niklas-pahlke.com
   email:             spacer@mail.filler
 
 plugins:
